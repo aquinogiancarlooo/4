@@ -1,0 +1,15 @@
+C:\group1\manginasal\manginasal\bin\Debug\manginasal.exe
+C:\group1\manginasal\manginasal\bin\Debug\manginasal.pdb
+C:\group1\manginasal\manginasal\obj\Debug\ResolveAssemblyReference.cache
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.Form1.resources
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.Properties.Resources.resources
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.csproj.GenerateResource.Cache
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.exe
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.pdb
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.homepagecs.resources
+D:\group1\manginasal\manginasal\obj\Debug\manginasal.exe
+D:\group1\manginasal\manginasal\obj\Debug\manginasal.pdb
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.editForm.resources
+C:\group1\manginasal\manginasal\obj\Debug\manginasal.orders.resources
+E:\Gian Carlo P. Aquino\group1\manginasal\manginasal\obj\Debug\manginasal.exe
+E:\Gian Carlo P. Aquino\group1\manginasal\manginasal\obj\Debug\manginasal.pdb
